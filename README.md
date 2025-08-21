@@ -2,11 +2,15 @@
   🌱 I'm currently learning about computer programming
      about the different languages used in it such as 
      python,java script and Html etc.
+     
   👯‍♂️ I'm looking to collaborate with different people on 
-     projects and learning new skills from each other
+     projects and learning new skills from each other.
+     
   📫 You can reach me through my email 
-     loki123456george@gmail.com 
+     loki123456george@gmail.com .
+     
   😄 Pronouns He/Him
+  
   ⚡️ Fun fact: I like drawing and I play football
 
 <!--
