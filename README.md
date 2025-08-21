@@ -1,5 +1,14 @@
-## Hi there 👋 I'm George 
-## 🙂 About Me
+## Hi there 👋 I'm George
+  🌱 I'm currently learning about computer programming
+     about the different languages used in it such as 
+     python,java script and Html etc.
+  👯‍♂️ I'm looking to collaborate with different people on 
+     projects and learning new skills from each other
+  📫 You can reach me through my email 
+     loki123456george@gmail.com 
+  😄 Pronouns He/Him
+  ⚡️ Fun fact: I like drawing and I play football
+
 <!--
 **loki123456george-oss/loki123456george-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
