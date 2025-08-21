@@ -1,7 +1,8 @@
 ## Hi there 👋 I'm George
   🌱 I'm currently learning about computer programming
      about the different languages used in it such as 
-     python,java script  and Html.
+     python,java script 
+     and Html.
      
   👯‍♂️ I'm looking to collaborate with different people on 
      projects and learning new skills from each other.
