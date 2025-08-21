@@ -1,4 +1,7 @@
 ## Hi there 👋 I'm George
+
+  🙂 I'm a student studying mathematics
+  
   🌱 I'm currently learning about computer programming
      about the different languages used in it such as 
      python,java script 
