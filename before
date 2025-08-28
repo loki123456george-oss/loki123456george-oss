@@ -1,0 +1,43 @@
+HTML
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Blog Post</title>
+</head>
+<body>
+    <div id="header-container">
+        <div class="logo">My Blog</div>
+        <div class="nav-links">
+            <a href="/">Home</a>
+            <a href="/about">About</a>
+            <a href="/contact">Contact</a>
+        </div>
+    </div>
+
+    <div id="main-content">
+        <div class="post-title"><h1>Understanding HTML Semantics</h1></div>
+        <div class="post-meta">Published on October 26, 2023</div>
+        <div class="post-body">
+            <p>This is the main content of my blog post...</p>
+            <p>More content here...</p>
+        </div>
+    </div>
+
+    <div id="sidebar-container">
+        <div class="related-posts">
+            <h3>Related Articles</h3>
+            <ul>
+                <li><a href="#">Article 1</a></li>
+                <li><a href="#">Article 2</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div id="footer-container">
+        <p>&copy; 2023 My Blog</p>
+    </div>
+</body>
+</html>
