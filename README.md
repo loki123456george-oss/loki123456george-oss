@@ -12,7 +12,7 @@
      projects and learning new skills from each other.
      
   📫 You can reach me through my email 
-     loki123456george@gmail.com.
+     loki123456george@gmail.coom
      
   😄 Pronouns He/Him
   
